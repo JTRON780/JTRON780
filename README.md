@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JTRON780/JTRON780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,19 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello!
+### 👋 Hi There!
 Thanks for checking out my profile!
 
-I'm currently working on some Discord bots (superpenguin612/discord-bots), some CyberPatriot resources (private repo to comply with competition rules), and I'm studying competitive programming/algorithms for USACO. Also, I'm getting ready to start a big project over at superpenguin612/ccs-connect.
-
-💻 Languages
+### 💻 Languages
 Python
 C++ (learning)
 Powershell/Batch
 HTML/CSS/JS/SQL
-🎮 Hobbies
-CS
-Gaming
+### 🎮 Hobbies
+Cybersec
+Gaming - Cities Skylines (over 1500 hours)
 Sketching
-📬 Contact Me
+### 📬 Contact Me
 JTRON780#0250 on Discord
