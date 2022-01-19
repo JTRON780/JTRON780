@@ -18,12 +18,12 @@ Thanks for checking out my profile!
 
 ## 💻 Languages
 - Python
-C++ (learning)
-Powershell/Batch
-HTML/CSS/JS/SQL
+- C++ (learning)
+- Powershell/Batch
+- HTML/CSS/JS/SQL
 ## 🎮 Hobbies
-Cybersec
-Gaming - Cities Skylines (over 1500 hours)
-Sketching
+- Programming
+- Gaming - Cities Skylines (over 1500 hours)
+- Sketching
 ## 📬 Contact Me
-JTRON780#0250 on Discord
+- JTRON780#0250 on Discord
