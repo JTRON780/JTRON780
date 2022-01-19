@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 👋 Hi There!
-Thanks for checking out my profile! However, most of my repos are private.
+Thanks for checking out my profile!
 
 ## 💻 Languages
 - Python
