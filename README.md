@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👋 Hi There!
+# 👋 Hi There!
 Thanks for checking out my profile!
 
-### 💻 Languages
+## 💻 Languages
 Python
 C++ (learning)
 Powershell/Batch
 HTML/CSS/JS/SQL
-### 🎮 Hobbies
+## 🎮 Hobbies
 Cybersec
 Gaming - Cities Skylines (over 1500 hours)
 Sketching
-### 📬 Contact Me
+## 📬 Contact Me
 JTRON780#0250 on Discord
