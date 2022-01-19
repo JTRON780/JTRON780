@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Thanks for checking out my profile!
 
 ## 💻 Languages
-Python
+- Python
 C++ (learning)
 Powershell/Batch
 HTML/CSS/JS/SQL
