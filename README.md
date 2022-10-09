@@ -23,7 +23,7 @@ Thanks for checking out my profile!
 - HTML/CSS/JS/SQL
 ## 🎮 Hobbies
 - Programming
-- Gaming - Cities Skylines (over 1500 hours)
+- Gaming - Cities Skylines
 - Sketching
 ## 📬 Contact Me
 - JTRON780#0250 on Discord
