@@ -27,4 +27,4 @@ Thanks for checking out my profile!
 - Gaming - Cities Skylines
 - Sketching
 ## 📬 Contact Me
-- JTRON780#0250 on Discord
+- jtron780 on Discord
